@@ -1,5 +1,5 @@
 
-  ##Unit 10 OOP Homework: Template Engine - Employee Summary
+  ## Unit 10 OOP Homework: Template Engine - Employee Summary
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,27 +18,27 @@
   * [Questions](#questions)
   
 
-  ##INSTALLATION
+  ## INSTALLATION
 
   The istallation instructions are simple, just simply clone my repo to your desired folder.
 
-  ##USAGE
+  ## USAGE
 
   This application was designed to give the user the ability to produce a clean and informative webpage for their desired company and is intended to give the user the ability to have all the teams information easy to access.
 
-  ##CONTRIBUTIONS
+  ## CONTRIBUTIONS
 
   Thank you for your intrest, but at this time we are not accepting contributions to this project.
 
-  ##TEST
+  ## TEST
 
   run normal tests
 
-  ##LICENSE
+  ## LICENSE
 
   MIT
 
-  ##QUESTIONS
+  ## QUESTIONS
   
   If you have any questions about this project, please feel free to contact me:
 
